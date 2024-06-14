@@ -1,0 +1,3 @@
+nasm bootsector.asm -o build/boot.bin
+nasm main.asm -o build/file.bin
+nasm build.asm -o build/disk.bin
