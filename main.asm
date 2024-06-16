@@ -1,4 +1,4 @@
-[ORG 0x0000]
+[ORG 0x1000]
 
 jmp start
 
